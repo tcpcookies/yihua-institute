@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tcpcookies.github.io/ihua-institute/sitemap.xml
